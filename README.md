@@ -1,5 +1,5 @@
 # Business-card
-Для того что бы открыть Business-card, необходимо файл index.html открыть в браузере.
+You can see the site by clicking on the link https://igorgap.github.io/Card/
 </p>
 <img width="1440" alt="mainPage" src="./readme-assest/1e.PNG">
 <p>
